@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\KORUMASIZ\HUSEYIN\VS\P20241018_toplamaAlistirma\P20241018_toplamaAlistirma\bin\Debug\P20241018_toplamaAlistirma.exe.config
+C:\Users\PC\Desktop\KORUMASIZ\HUSEYIN\VS\P20241018_toplamaAlistirma\P20241018_toplamaAlistirma\bin\Debug\P20241018_toplamaAlistirma.exe
+C:\Users\PC\Desktop\KORUMASIZ\HUSEYIN\VS\P20241018_toplamaAlistirma\P20241018_toplamaAlistirma\bin\Debug\P20241018_toplamaAlistirma.pdb
+C:\Users\PC\Desktop\KORUMASIZ\HUSEYIN\VS\P20241018_toplamaAlistirma\P20241018_toplamaAlistirma\obj\Debug\P20241018_toplamaAlistirma.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\KORUMASIZ\HUSEYIN\VS\P20241018_toplamaAlistirma\P20241018_toplamaAlistirma\obj\Debug\P20241018_toplamaAlistirma.Form1.resources
+C:\Users\PC\Desktop\KORUMASIZ\HUSEYIN\VS\P20241018_toplamaAlistirma\P20241018_toplamaAlistirma\obj\Debug\P20241018_toplamaAlistirma.Properties.Resources.resources
+C:\Users\PC\Desktop\KORUMASIZ\HUSEYIN\VS\P20241018_toplamaAlistirma\P20241018_toplamaAlistirma\obj\Debug\P20241018_toplamaAlistirma.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\KORUMASIZ\HUSEYIN\VS\P20241018_toplamaAlistirma\P20241018_toplamaAlistirma\obj\Debug\P20241018_toplamaAlistirma.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\KORUMASIZ\HUSEYIN\VS\P20241018_toplamaAlistirma\P20241018_toplamaAlistirma\obj\Debug\P20241018_toplamaAlistirma.exe
+C:\Users\PC\Desktop\KORUMASIZ\HUSEYIN\VS\P20241018_toplamaAlistirma\P20241018_toplamaAlistirma\obj\Debug\P20241018_toplamaAlistirma.pdb

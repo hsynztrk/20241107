@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P20241018_toplamaAlistirma", "P20241018_toplamaAlistirma\P20241018_toplamaAlistirma.csproj", "{A839ECDF-8C29-46A1-8474-61D15A666544}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A839ECDF-8C29-46A1-8474-61D15A666544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A839ECDF-8C29-46A1-8474-61D15A666544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A839ECDF-8C29-46A1-8474-61D15A666544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A839ECDF-8C29-46A1-8474-61D15A666544}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC75EADF-2BE9-4732-AED9-67366E227340}
+	EndGlobalSection
+EndGlobal
